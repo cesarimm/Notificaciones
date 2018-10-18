@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "491162190634",
+    "firebase_url": "https://onderapp-626dc.firebaseio.com",
+    "project_id": "onderapp-626dc",
+    "storage_bucket": "onderapp-626dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491162190634:android:5b269fe9292d95db",
+        "android_client_info": {
+          "package_name": "com.example.cesarivanmtz.onderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491162190634-ravf57oo08s13fgh060scbnl35ss63cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cesarivanmtz.onderapp",
+            "certificate_hash": "cd5fe1950e6f78535619648f6b9b0c7d379f24c8"
+          }
+        },
+        {
+          "client_id": "491162190634-3vf65revcdhfvdjmg9r9kuvfhuo4qa2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAj5UzEFaOqQuK6DH9KEP1fGoXbd0Ww_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491162190634-3vf65revcdhfvdjmg9r9kuvfhuo4qa2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
